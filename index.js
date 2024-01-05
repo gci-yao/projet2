@@ -445,11 +445,3 @@ cgvb.addEventListener("click", () => {
 //   bacb2.classList.add(".bacb2vi");
 // }
 // alert("yo");
-
-function toto() {
-
-}
-
-function ttata() {
-
-}
